@@ -1,0 +1,22 @@
+body{
+   text-align: center; 
+   background-color: lightgoldenrodyellow;
+}
+img{
+    height: 500px;
+    border-color: darkgreen;
+    border-radius: 12px;
+    border-style: dashed;
+}
+s{
+    background-color: antiquewhite;
+    border-style: dashed;
+    border-color: burlywood;
+    border-radius: 12px;
+}
+p{
+    font-family: cursive;
+}
+h1{
+    font-family: fantasy;
+}
